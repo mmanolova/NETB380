@@ -1,4 +1,4 @@
-NETB80
+NETB380
 ======
 
 Variant 4: Test generator
