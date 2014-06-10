@@ -3,11 +3,15 @@ NETB80
 
 Variant 4: Test generator
 
-Using C++/Qt and Postgres database write a test generator program that allows the user automatically to generate tests out of the database of questions and possible answers. The program supports two main activities: course database creation and test generation.
+Using C++/Qt and Postgres database write a test generator program that allows 
+the user automatically to generate tests out of the database of questions and 
+possible answers. The program supports two main activities: course database 
+creation and test generation.
 
 The course database creation has the following features:
 
--the user can enter a question with five possible answers. Only one of the answers is selected as correct and all the others are wrong;
+-the user can enter a question with five possible answers. Only one of 
+the answers is selected as correct and all the others are wrong;
 -the user can choose a level of difficulty that corresponds to the question;
 -the user selects the course to which this question is relevant.
 
